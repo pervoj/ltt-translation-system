@@ -12,7 +12,7 @@ If you want to help me, you can create new library, which can be used in your fa
 
 # Translations editor
 
-[![LTT Edit: 0.2.1](https://img.shields.io/badge/LTT%20Edit-0.2.1-yellow?logo=docusign)](https://github.com/pervoj/ltt-edit/releases/latest)
+[![LTT Edit: 0.2.1](https://img.shields.io/badge/LTT%20Edit-0.2.1-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAMpJREFUGBltwTErhAEYAOC3Y3AlzLp/IBabUakrKQPpNnU5JXIGzi0Wi818GQyKnyCjLIYvdRnYGCSJyHB1RQ9nuc+d54kWuxJb8R9Z7xoe9UQ3BawhH92cupHx4Dg6GfbpReJNw2D8ZRNL5q2jpC9+GNcbLRasxC8b9lwYsujKrEp0UlXQVHfty0y0GVCzo9+tslGTxqJNVkXdtFf3niVKkSanrqzmyLmSuUiTc+fAticfqoqRZkrTvhOXDp3JR5oRE1Yty8ooqnwDFvmbCPPEQ1UAAAAASUVORK5CYII=)](https://github.com/pervoj/ltt-edit/releases/latest)
 
 For easiest creating of LTT translations I made also simple translation editor.
 
