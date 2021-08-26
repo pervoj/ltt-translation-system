@@ -1,5 +1,5 @@
-<table align="center"><tr><td>
-  <h2 align="center">⚠️&ensp;WARNING&ensp;⚠️</h2>
+<table align="center"><tr><td style="border: 3px solid #b5e853; border-radius: 10px; padding: 0 20px;">
+  <h2 align="center" style="margin-top: 15px;">⚠️&ensp;WARNING&ensp;⚠️</h2>
   <h3 align="center">LTT project is no longer maintained!</h3>
   <p>I have decided to end the project for the time being to work on other projects. However, the whole LTT project is still usable, I just won't be developing it anymore.</p>
   <p>When there is time, I may return to the project, for now all LTT related repositories are archived.</p>
